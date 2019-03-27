@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorHint">#6e6e6e</color>
+    <color name="colorCreate">#4e92df</color>
+    <color name="colorSignIn">#ff9b00</color>
+    <color name="colorSignInText">#ffffff</color>
+    <color name="brownishGray">#6e6e6e</color>
+    <color name="colorBackground">#14007165</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorDividerBorder">#a19f9f</color>
+</resources>

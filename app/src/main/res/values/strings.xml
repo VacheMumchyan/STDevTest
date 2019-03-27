@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">STDevTest</string>
+    <string name="already_exist">Address already exist</string>
+</resources>
